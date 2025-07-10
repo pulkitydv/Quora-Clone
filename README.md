@@ -1,0 +1,1 @@
+This is a Quora Clone project developed using React.js. It allows users to create and view posts in a clean, user-friendly interface. The application uses multiple routes for navigating between different pages like Home, Ask Question, and Create Post. It also demonstrates basic state management and component-based architecture in React.
